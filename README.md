@@ -6,6 +6,7 @@
 ## Repository Structure
 
 **/source:** Directory where the source code, simulations and simulation examples are located.
+
 **/metadata:** contains configuration and simulation output.
 
 ## Informations
